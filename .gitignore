@@ -1,0 +1,7 @@
+# Simulation junk files
+work/
+*.wlf
+*.log
+transcript
+vsim.wlf
+*.vstf
